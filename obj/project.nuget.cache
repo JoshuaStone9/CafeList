@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EI+RzgKIjvM=",
+  "success": true,
+  "projectFilePath": "/Users/joshstone/Documents/GitHub/CafeList/CafeList.csproj",
+  "expectedPackageFiles": [
+    "/Users/joshstone/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/joshstone/.nuget/packages/qrcoder/1.7.0/qrcoder.1.7.0.nupkg.sha512",
+    "/Users/joshstone/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
