@@ -11,6 +11,12 @@ internal class FoodList : IMenuItem
     public bool IsVegetarian => IsVegan;
     public bool IsGlutenFree { get; }
 
+
+    public FoodList()
+    {
+        Name = "Name Not Given";
+        Description = "No Description";
+    }
     private FoodList(
         string name,
         string description,
