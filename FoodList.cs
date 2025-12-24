@@ -42,4 +42,34 @@ internal class FoodList : IMenuItem
             new FoodList("Vegan Burger", "Plant-based and flavorful", isVegan: true)
         };
     }
+    public string VeganStatus
+    {
+        get
+        {
+
+            return IsVegan ? "You Are A Vegan" : "You Are Not Vegan";
+
+        }
+    }
+
+
+    public string GlutenFreeStatus
+    {
+        get
+        {
+            return IsGlutenFree ? "You Are Gluten Free" : "You Are Not Gluten Free";
+        }
+    }
+
+    public string VegetarianStatus
+    {
+        get
+        {
+            return IsVegetarian ? "You Are Vegetarian" : "You Are Not Vegetarian";
+        }
+    }
+
+
+
+
 }

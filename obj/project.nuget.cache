@@ -1,12 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "EI+RzgKIjvM=",
-  "success": true,
-  "projectFilePath": "/Users/joshstone/Documents/GitHub/CafeList/CafeList.csproj",
-  "expectedPackageFiles": [
-    "/Users/joshstone/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "/Users/joshstone/.nuget/packages/qrcoder/1.7.0/qrcoder.1.7.0.nupkg.sha512",
-    "/Users/joshstone/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "+UetBbqr8ak=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Josh\\source\\repos\\FM\\CafeList\\CafeList.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "projectPath": "C:\\Users\\Josh\\source\\repos\\FM\\CafeList\\CafeList.csproj",
+      "filePath": "C:\\Users\\Josh\\source\\repos\\FM\\CafeList\\CafeList.csproj",
+      "libraryId": "QRCoder",
+      "targetGraphs": []
+    }
+  ]
 }
